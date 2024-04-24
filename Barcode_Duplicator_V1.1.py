@@ -17,7 +17,7 @@ maintenanceMode = False  # Enabling maintenance mode will stop the code from sen
 # Setting Printer Specificiations
 backend = 'network'    # 'pyusb', 'linux_kernal', 'network'
 model = 'QL-1060N' 
-printer = 'tcp://00.00.000.000'    
+printer = 'tcp://00.00.000.000'    # UPDATE THIS
 
 qlr = BrotherQLRaster(model)
 qlr.exception_on_warning = True
