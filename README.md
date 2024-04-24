@@ -1,5 +1,5 @@
 # Barcode-Duplicator
-Python app with GUI for duplicating barcodes using a Brother QL-1060N label printer.
+Python app with GUI for duplicating Code 128 barcodes using a Brother QL-1060N label printer.
 
 # First Time Setup
 1. Line 18 of the code must be updated depending on which connection method you use (pyusb, linux_kernel, network).
