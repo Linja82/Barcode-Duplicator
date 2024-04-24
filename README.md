@@ -17,3 +17,6 @@ Python app with GUI for duplicating barcodes using a Brother QL-1060N label prin
    
    ![Drop-down Menu](https://github.com/Linja82/Barcode-Duplicator/blob/main/Images/Barcode%20Duplicator%20V1.1%20Screenshot%20Drop-down%20Menu.png)
 6. Click "Print Barcodes"
+
+# Notes
+- This app uses the brother_ql library
